@@ -7,7 +7,7 @@ h1 {
     background-image: url("images/cat.jpg");
     padding: 600px 300px;
     background-color: pink;
-    background-size: contain;
+    /* background-size: contain; */
     /* background-size: 200px; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,6 +16,7 @@ h1 {
     /* background-position: right; */
     /* background-position: left; */
     /* background-position: top; */
-    /* background-position: bottom; */
+    /* background-position: center; */
+    background-position: bottom;
     
 }
